@@ -1,5 +1,4 @@
 ---
-layout: none
 title: Privacy Policy for HAY! How Are You?
 permalink: /hay-privacypolicy/
 ---
