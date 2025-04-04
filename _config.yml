@@ -37,6 +37,7 @@ plugins:
 
 minima:
   header_pages:
+    - index.md
     - about.md
   
 # Exclude from processing.
