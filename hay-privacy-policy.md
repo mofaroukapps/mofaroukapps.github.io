@@ -5,7 +5,7 @@ permalink: /hay-privacypolicy/
 
 # Privacy Policy for HAY! How Are You?
 Last updated: 03/04/2025
-<br/>
+<br/><br/>
 Welcome to HAY! How Are You? ("we," "our," or "us"). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your personal data when you use our mobile app.
 
 ## 1. Information We Collect
@@ -16,9 +16,9 @@ We may collect the following information:
 
 ## 2. How We Use Your Information
 We use your data to:<BR/>
-✅ Display your mood history & summaries<BR/>
-✅ Improve app performance & features<BR/>
-✅ Provide a personalized experience<BR/>
+- Display your mood history & summaries<BR/>
+- Improve app performance & features<BR/>
+- Provide a personalized experience<BR/>
 
 ## 3. Data Storage & Security
 - All data is stored locally on your device and is not shared with third parties.
