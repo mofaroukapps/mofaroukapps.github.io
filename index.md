@@ -5,4 +5,5 @@
 layout: home
 ---
 
-I created this site for two main reasons. First is to have online presence, and second is to write content that I want to share with the world. 
+
+Welcome to MoFarouk Apps
