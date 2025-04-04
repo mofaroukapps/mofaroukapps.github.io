@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: none
 title:  "Infrastructure Software Modules for Enterprises"
 date:   2022-09-05
 categories: PM
