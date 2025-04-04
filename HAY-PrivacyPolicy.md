@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy for HAY! How Are You?
 permalink: /hay-privacypolicy/
+nav_exclude: true
 ---
 
 # Privacy Policy for HAY! How Are You?
