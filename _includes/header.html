@@ -1,0 +1,12 @@
+<header>
+  <nav>
+    <ul>
+      {% assign pages_list = site.pages %}
+      {% for page in pages_list %}
+        {% unless page.nav_exclude %}
+          <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
