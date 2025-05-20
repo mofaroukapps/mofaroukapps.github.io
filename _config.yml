@@ -48,7 +48,7 @@ minima:
 # their entries' file path in the `include:` list.
 #
 exclude:
-   - app-ads.txt
+ #  - app-ads.txt
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
